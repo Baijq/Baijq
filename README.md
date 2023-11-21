@@ -4,8 +4,8 @@
 
 😄很高兴你点开了我的主页
 
-- 🔭 我是一名95后的IT民工，本人还算阳光灿烂哈哈，性格真的好好哦
-- 🌱 大学参加中国机器人大赛，并获得[全国一等奖！:joy:](http://crc.drct-caa.org.cn/index.php/race/lists?catid=19&cid_1=172&cid_2=175&sid=348&tid=3#con_html):100:   
+- 🔭 我是一名95后的IT民工
+- 🌱 大学参加中国机器人大赛，并获得[全国一等奖！](http://crc.drct-caa.org.cn/index.php/race/lists?catid=19&cid_1=172&cid_2=175&sid=348&tid=3#con_html):100:   
 - 👯 毕业后一直从事java后端开发工作至今...  
 - 📫 这里会写些还算有用的笔记
 - ⚡ 欢迎来纠正错误.
